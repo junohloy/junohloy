@@ -9,8 +9,8 @@ I'm a 2nd year computer science student passionate about AI. I love working on w
 - 🔭 I’m currently working on **item_classification-project**
 - 🌱 I’m currently learning **web design**
 - 📫 How to reach me:
--   [Email] (junoh@iloy.me)
--   [LinkedIn](https://www.linkedin.com/in/junoh-loy-a72928291/)
+  - Email: [junoh@iloy.m](junoh@iloy.me)
+  - [LinkedIn Profile](https://www.linkedin.com/in/junoh-loy-a72928291/)
 ---
 
 ## 🌐 Connect with Me
