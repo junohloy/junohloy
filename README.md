@@ -1,6 +1,5 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Junoh 👋
 
-<!-- Add a brief introduction about yourself -->
 I'm a 2nd year computer science student passionate about AI. I love working on web apps, and I'm always eager to learn and share knowledge with the tech community.
 
 ---
